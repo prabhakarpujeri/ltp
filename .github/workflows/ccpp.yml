@@ -15,5 +15,4 @@ jobs:
       run: ./configure
     - name: make
       run: make
-    - name: make rpm
-      run: make rpm
+
